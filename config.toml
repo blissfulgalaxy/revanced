@@ -6,15 +6,18 @@ enable-magisk-update = true   # set this to false if you do not want to receive 
 # you can use rvmm-config-gen to generate a config
 
 [VSCO]
+enabled = false
 app-name = "VSCO"
 build-mode = "apk"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.vsco.cam"
 arch = "arm-v7a"
-version = "324"
+version = "auto"
 
 [Lightroom]
 app-name = "Lightroom"
 build-mode = "apk"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.adobe.lrmobile"
+uptodown-dlurl = "https://adobe-lightroom-mobile.en.uptodown.com/android"
+apkmonk-dlurl = "https://www.apkmonk.com/app/com.adobe.lrmobile/"
 arch = "arm-v7a"
-version = "9.0.0"
+version = "auto"
