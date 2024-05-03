@@ -10,11 +10,11 @@ app-name = "VSCO"
 build-mode = "apk"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.vsco.cam"
 arch = "arm-v7a"
-version = "latest"
+version = "324"
 
 [Lightroom]
 app-name = "Lightroom"
 build-mode = "apk"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.adobe.lrmobile"
 arch = "arm-v7a"
-version = "latest"
+version = "9.0.0"
