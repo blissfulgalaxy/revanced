@@ -64,3 +64,12 @@ cli-source = "inotia00/revanced-cli"
 rv-brand = "ReVanced Extended"
 build-mode = "both"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
+
+[VSCO: Photo & Video Editor]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/vsco/vsco-cam/vsco-cam-362-release/"
+version = "latest"
+
+[Lightroom Photo & Video Editor]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/adobe/lightroom/lightroom-9-2-2-release/"
+arch = "arm-v7a"
+version = "latest"
